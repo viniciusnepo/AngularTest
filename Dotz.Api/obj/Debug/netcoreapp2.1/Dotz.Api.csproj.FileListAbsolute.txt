@@ -1,0 +1,14 @@
+D:\Dotz\Dotz\Dotz.Api\bin\Debug\netcoreapp2.1\Dotz.Api.deps.json
+D:\Dotz\Dotz\Dotz.Api\bin\Debug\netcoreapp2.1\Dotz.Api.runtimeconfig.json
+D:\Dotz\Dotz\Dotz.Api\bin\Debug\netcoreapp2.1\Dotz.Api.runtimeconfig.dev.json
+D:\Dotz\Dotz\Dotz.Api\bin\Debug\netcoreapp2.1\Dotz.Api.dll
+D:\Dotz\Dotz\Dotz.Api\bin\Debug\netcoreapp2.1\Dotz.Api.pdb
+D:\Dotz\Dotz\Dotz.Api\obj\Debug\netcoreapp2.1\Dotz.Api.csprojAssemblyReference.cache
+D:\Dotz\Dotz\Dotz.Api\obj\Debug\netcoreapp2.1\Dotz.Api.csproj.CoreCompileInputs.cache
+D:\Dotz\Dotz\Dotz.Api\obj\Debug\netcoreapp2.1\Dotz.Api.RazorAssemblyInfo.cache
+D:\Dotz\Dotz\Dotz.Api\obj\Debug\netcoreapp2.1\Dotz.Api.RazorAssemblyInfo.cs
+D:\Dotz\Dotz\Dotz.Api\obj\Debug\netcoreapp2.1\Dotz.Api.AssemblyInfoInputs.cache
+D:\Dotz\Dotz\Dotz.Api\obj\Debug\netcoreapp2.1\Dotz.Api.AssemblyInfo.cs
+D:\Dotz\Dotz\Dotz.Api\obj\Debug\netcoreapp2.1\Dotz.Api.RazorTargetAssemblyInfo.cache
+D:\Dotz\Dotz\Dotz.Api\obj\Debug\netcoreapp2.1\Dotz.Api.dll
+D:\Dotz\Dotz\Dotz.Api\obj\Debug\netcoreapp2.1\Dotz.Api.pdb
